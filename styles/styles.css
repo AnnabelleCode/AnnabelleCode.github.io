@@ -40,6 +40,9 @@ nav > a {
     border-radius: 10%;
     height: 15px;
     text-decoration: none;
+    color:rgb(20, 67, 109);
+    font-family: Calibri;
+    font-size: 18px;
 }
 nav > a:hover{
     background-color: aliceblue;
